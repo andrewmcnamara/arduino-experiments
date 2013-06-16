@@ -1,0 +1,17 @@
+GIT
+  remote: git://github.com/andrewmcnamara/dino.git
+  revision: e83155bb61bbcd8d5bd14da8f303b5ac4cfd85e1
+  specs:
+    dino (0.11.2)
+      serialport
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    serialport (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dino!
